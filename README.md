@@ -1,6 +1,6 @@
 # AI-Study
 
-### 🔗 [Kaggle Study]()
+### 🔗 [Kaggle Study](https://github.com/Si-jeong/AI-Study/tree/main/kaggle_study)
 Week 5. [Dynamics of New York city - Animation](https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)  
 Week 6. [Simple Exploration Notebook - Zillow Prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)  
 Week 7. [Keras Model for Beginners (0.210 on LB)+EDA+R&D](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)  
