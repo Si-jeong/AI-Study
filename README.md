@@ -32,3 +32,5 @@
 
 - https://github.com/ageron/handson-ml
 - https://github.com/rickiepark/handson-ml2
+
+### 딥러닝 파이토치 교과서 [](https://github.com/Si-jeong/AI-Study/tree/main/dl-with-pytorch)
